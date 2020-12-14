@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2466007 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.4482400" minlon="12.3246300" maxlat="45.4487100" maxlon="12.3254900"/>
+ <node id="1522412073" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:23Z" user="SldrHartman" uid="64392" lat="45.4481373" lon="12.3256111"/>
+ <node id="1522412293" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:23Z" user="SldrHartman" uid="64392" lat="45.4482304" lon="12.3253080"/>
+ <node id="1522412297" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4482287" lon="12.3253070"/>
+ <node id="1522412342" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4482481" lon="12.3252491"/>
+ <node id="1522412348" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4482377" lon="12.3256724"/>
+ <node id="1522412464" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4482704" lon="12.3251829"/>
+ <node id="1522412605" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4483468" lon="12.3253094"/>
+ <node id="1522412793" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4484109" lon="12.3247122"/>
+ <node id="1522412942" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4485226" lon="12.3253347"/>
+ <node id="1522413022" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:24Z" user="SldrHartman" uid="64392" lat="45.4486630" lon="12.3248640"/>
+ <node id="1523580683" visible="true" version="1" changeset="9991323" timestamp="2011-11-29T19:26:34Z" user="GatoSelvadego" uid="73469" lat="45.4482803" lon="12.3250712">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="1523580684" visible="true" version="1" changeset="9991323" timestamp="2011-11-29T19:26:34Z" user="GatoSelvadego" uid="73469" lat="45.4483438" lon="12.3248586">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="1523580687" visible="true" version="1" changeset="9991323" timestamp="2011-11-29T19:26:35Z" user="GatoSelvadego" uid="73469" lat="45.4484323" lon="12.3254035">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="1523580699" visible="true" version="1" changeset="9991323" timestamp="2011-11-29T19:26:35Z" user="GatoSelvadego" uid="73469" lat="45.4486040" lon="12.3246836">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="1523610144" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:25Z" user="SldrHartman" uid="64392" lat="45.4488189" lon="12.3254880"/>
+ <node id="1523610150" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:25Z" user="SldrHartman" uid="64392" lat="45.4489145" lon="12.3254195"/>
+ <way id="138842834" visible="true" version="1" changeset="9983367" timestamp="2011-11-29T00:59:50Z" user="GatoSelvadego" uid="73469">
+  <nd ref="1522412793"/>
+  <nd ref="1522413022"/>
+  <nd ref="1522412942"/>
+  <nd ref="1522412464"/>
+  <nd ref="1522412793"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="138843522" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:22Z" user="SldrHartman" uid="64392">
+  <nd ref="1522412342"/>
+  <nd ref="1522412605"/>
+  <nd ref="1522412348"/>
+  <nd ref="1522412073"/>
+  <nd ref="1522412297"/>
+  <nd ref="1522412293"/>
+  <nd ref="1522412342"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="138985807" visible="true" version="2" changeset="17831767" timestamp="2013-09-14T11:59:23Z" user="SldrHartman" uid="64392">
+  <nd ref="1523610150"/>
+  <nd ref="1523610144"/>
+  <nd ref="1522412942"/>
+  <tag k="barrier" v="fence"/>
+  <tag k="fixme" v="Dato importato CTR Veneto. Vericare sul campo fence_type=*"/>
+ </way>
+</osm>

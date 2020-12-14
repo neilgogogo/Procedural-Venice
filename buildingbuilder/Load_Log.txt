@@ -1,0 +1,104 @@
+Load warnings for /Users/lihangqian/Documents/huodini_venice/buildingbuilder/normal_buildingV4.hipnc
+
+Warning:     
+
+/obj/building/roof_detail/scale/bind1:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/roof_detail/scale/const1:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/roof_detail/scale/scale:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/roof_detail/scale/const2:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/roof_detail/scale/const3:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/wall/scale/bind1:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/wall/scale/const1:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/wall/scale/scale:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/wall/scale/const2:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/wall/scale/const3:
+
+             Skipping unrecognized parameter "dictdef".
+             Skipping unrecognized parameter "dictadef".
+             
+
+/obj/building/osm/osm_buildings1:
+
+             Skipping unrecognized parameter "up_axis".
+             
+
+/obj/framework_generator/building_generator2:
+
+             Skipping unrecognized parameter "snapinputgeo".
+             
+
+/obj/building/roof_detail/attribdelete1:
+
+             Skipping unrecognized parameter "usereference".
+             Skipping unrecognized parameter "negate".
+             Skipping unrecognized parameter "doptdel".
+             Skipping unrecognized parameter "dovtxdel".
+             Skipping unrecognized parameter "doprimdel".
+             Skipping unrecognized parameter "dodtldel".
+             
+
+/obj/building/roof_detail/wapian/mirror1:
+
+             Skipping unrecognized parameter "createoutputgroup".
+             Skipping unrecognized parameter "outputgroup".
+             
+
+/stage:
+
+             Skipping unrecognized parameter "insertionpointdescriptor".
+             Skipping unrecognized parameter "rendergallerysource".
+             
+
+/tasks/topnet1/localscheduler:
+
+             Skipping unrecognized parameter "folder4".
+             Skipping unrecognized parameter "pdg_mapmode".
+             Skipping unrecognized parameter "pdg_usemapzone".
+             Skipping unrecognized parameter "pdg_mapzone".
+             Skipping unrecognized parameter "folder5".
+             Skipping unrecognized parameter "verbose".
