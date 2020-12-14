@@ -56,6 +56,7 @@ Creates a fence on the given polyline. This node is automatically called while g
 
 4. Ledge generator
 Creates continuous or separated ledges on the given polyline. 
+
 |Parameter|	Overview|
 | ------------- | ------------- |
 |Type|	Switches between continuous ledges and separated ledges.|
