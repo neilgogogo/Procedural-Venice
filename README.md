@@ -1,5 +1,7 @@
 # Procedural-Venice
 
+more details: http://fdh.epfl.ch/index.php/Procedural_Venice
+
 Node handbook 
 
 This part provides the basic descriptions for important nodes and their parameters.
