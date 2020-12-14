@@ -9,6 +9,7 @@ This part provides the basic descriptions for important nodes and their paramete
 Controls the total number of floors, resample the footprint outline to decide the distribution of floors and windows, and provides basic information for adding accessories. The parameters are divided into three parts.
 
 * Building options: Converts the footprint to a rough building shape.
+
 | Parameter  | Overview |
 | ------------- | ------------- |
 |Number of floors|	Decides the number of floors. The max value is 10.|
@@ -16,6 +17,7 @@ Controls the total number of floors, resample the footprint outline to decide th
 |Default resample	|Resamples the edges of the footprint by inner points and adjusts the width for every window unit. If there is no overriding resample value for specific floors, it will be used as the resample value.|
 
 * Window options: Sets the concrete position of window units.
+
 |Parameter	| Overview|
 | ------------- | ------------- |
 |Default position|	The vertical distance from the window bottom to the floor. If there is no overriding value for specific floors, it will be used as default.|
@@ -23,6 +25,7 @@ Controls the total number of floors, resample the footprint outline to decide th
 |Default window width|	Default width of the window placeholders. This value may differ from the actual width of the window models.|
 
 * Details: Applies overriding control over specific floors.
+
 |Parameter	|Overview|
 | ------------- | ------------- |
 |Floor index	|The floor needs to be modified.|
@@ -33,7 +36,8 @@ Controls the total number of floors, resample the footprint outline to decide th
 |Window options - Width	|Rewrites the window width of the floors.|
 
 2. Roof generator
-Constructs a hip/gable/flat roof by the given type and distributes tiles automatically. For the hip/gable roof, only external corners will be covered by tiles.  
+Constructs a hip/gable/flat roof by the given type and distributes tiles automatically. For the hip/gable roof, only external corners will be covered by tiles. 
+
 |Parameter	|Overview|
 | ------------- | ------------- |
 |Expansion	|Expands the footprint of the roof from the base footprints. |
@@ -41,6 +45,7 @@ Constructs a hip/gable/flat roof by the given type and distributes tiles automat
 Notice that it may take a while to generate a single hip or gable roof because of the boolean operation on tiles.
 3. Fence generator
 Creates a fence on the given polyline. This node is automatically called while generating the flat roof.
+
 |Parameter	|Overview|
 | ------------- | ------------- |
 |Resample|	Controls the subdivision level of the pillars. Smaller value gives preciser controls over the pillar shapes. |
@@ -64,6 +69,7 @@ Creates uniformly distributed decorations under the roof. Most of the parameters
 6. Window generator
 Creates a window by assembling the arch, shutters, glasses, and fence. It works if users only choose some of the components. The parameters are divided into three parts.
 * Arch options: generates inflected ogee arch / two pointed trefoil / round trefoil / round trefoliated / pointed trefoil / pointed trefoil / two centered ogee arch / iris arch.
+
 |Parameter|	Overview|
 | ------------- | ------------- |
 |Arch type	|Switches among 7 arch types.|
@@ -83,7 +89,3 @@ Creates a window by assembling the arch, shutters, glasses, and fence. It works 
 
 * Fence options: most of the parameters can be find in fence generators.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
