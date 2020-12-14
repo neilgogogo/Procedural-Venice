@@ -74,11 +74,11 @@ Creates a window by assembling the arch, shutters, glasses, and fence. It works 
  
 
 * Window options: Sets the concrete position of window units.
-|Parameter	|Overview|
-| ------------- | ------------- |
-|Height	|Controls the height of the main body of windows.|
+|Parameter	       |Overview       |
+| --------------- | ------------- |
+|Height	          |Controls the height of the main body of windows.|
 |Separation ratio	|Controls the position of sliding windows.|
-|Shutter options	|Adjusts the rotation angles of the shutters and the distribution of leaves.|
+|Shutter options	 |Adjusts the rotation angles of the shutters and the distribution of leaves.|
 
 * Fence options: most of the parameters can be find in fence generators.
 
