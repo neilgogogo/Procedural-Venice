@@ -81,3 +81,8 @@ Creates a window by assembling the arch, shutters, glasses, and fence. It works 
 |Shutter options	|Adjusts the rotation angles of the shutters and the distribution of leaves.|
 
 * Fence options: most of the parameters can be find in fence generators.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
